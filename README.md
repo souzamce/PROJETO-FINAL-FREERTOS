@@ -11,9 +11,9 @@ Instituição: Universidade Salisiana São José
 O projeto utiliza o FREERTOS aplicado ao microcontrolador ESP32. O ESP32 realizada leituras constantes de um sensor de pressão diferencial, onde os valores adquiridos são enviados para um display OLED (Interface local) e também para uma plataforma na nuvem. A pressão é monitorada e possui um alarme para pressão alta e também um botão de emergência acionado pela plataforma na nuvem.
 
 ## Materiais e Recursos
-ESP32
-Relay 
-Sensor de Pressão
+ESP32,
+Relay 3,3V, 
+Sensor de Pressão MPX2010DP
 
 ## Esquema Elétrico
 Esquema elétrico da solução ou diagrama de blocos
