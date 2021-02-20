@@ -18,10 +18,10 @@ Relay 3,3V,
 Sensor de Pressão MPX2010DP
 
 ## Esquema Elétrico
-Esquema elétrico da solução ou diagrama de blocos
+![placa](Foto_circuito.jpg)Esquema elétrico da solução ou diagrama de blocos
 
 ## Código fonte
-Código Fonte da aplicação desenvolvido com FreeRTOS
+Código Adicionado no GitHub
 
 ## Explicação do código Fonte
 Explicação sobre os principais pontos do código
