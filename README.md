@@ -36,6 +36,8 @@ O FreeRtos é uma ferramenta muito poderosa para o desenvolvimento de projetos e
 ## Referências
 Materiais da aula
 https://www.freertos.org/
+https://www.embarcados.com.br/
+https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
 
 ## Licença do projeto
 Licença de publicação do projeto. Anexar a licença ao repositório.
