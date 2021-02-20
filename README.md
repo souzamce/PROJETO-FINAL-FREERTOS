@@ -20,7 +20,7 @@ Sensor de Pressão MPX2010DP
 ![IOT](Plataforma_IOT.jpg)
 ## Esquema Elétrico
 ![Circuito](ESQUEMA-ELETRICO-ATIVIDADE-FINAL.pdf)
-https://www.filipeflop.com/blog/como-conectar-display-oled-arduino/
+
 
 
 ## Código fonte
