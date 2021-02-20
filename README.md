@@ -17,6 +17,7 @@ ESP32,
 Relay 3,3V, 
 Sensor de Pressão MPX2010DP
 ![Placa](Foto_CIrcuito.jpg)
+![IOT](Plataforma_IOT.jpg)
 ## Esquema Elétrico
 ![Circuito](ESQUEMA-ELETRICO-ATIVIDADE-FINAL.pdf)
 
