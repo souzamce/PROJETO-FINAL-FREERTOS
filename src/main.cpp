@@ -19,7 +19,7 @@
 #include "esp_adc_cal.h"
 #include <iotHTTPS_ESP32.h>
 
-#include "SSD1306.h" 
+#include "SSD1306.h"  //biblioteca display
 SSD1306  display(0x3c, 21, 22);
 
 

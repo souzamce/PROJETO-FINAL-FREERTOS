@@ -1,9 +1,11 @@
 # ATIVIDADE FINAL - MEDIDOR DE PRESSÃO IOT
-Autores: Marcelo Domingues de Souza 
-         Fernando Henrique Dorigan
-         João Vitor Rodrigues de Lima
+Autores: 
+ - Marcelo Domingues de Souza 
+ - Fernando Henrique Dorigan
+ - João Vitor Rodrigues de Lima
 
-Professor: Fábio Souza 
+Professor: 
+- Fábio Souza 
 Disciplina: Sistemas Operacionais e RTOS de Sistemas Embarcados
 Instituição: Universidade Salisiana São José
 
