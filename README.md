@@ -18,7 +18,7 @@ Relay 3,3V,
 Sensor de Pressão MPX2010DP
 
 ## Esquema Elétrico
-![Placa](Foto_circuito.jpg)
+![Placa](Foto_CIrcuito.jpg)
 
 ## Código fonte
 Código Adicionado no GitHub
